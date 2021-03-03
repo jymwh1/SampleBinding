@@ -1,0 +1,39 @@
+﻿<Window x:Class="SampleBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SampleBinding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" Background="White" Loaded="Window_Loaded">
+    <Grid>
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Row="0" Grid.Column="0" x:Name="Bt_Jog_M3" Content="数值增加"   Margin="10" Click="Bt_Jog_M3_Click" Style="{StaticResource ButtonTempalted}"/>
+            <Button Grid.Row="0" Grid.Column="1" x:Name="Bt_Jog_M4" Content="数值回零"   Margin="10" Click="Bt_Jog_M4_Click"/>
+            <TextBox Name="tbInputNumber" Margin="3" Grid.Row="1" Grid.Column="0" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"/>
+
+
+            <CheckBox Grid.Row="0" Grid.Column="3" x:Name="MCB_Origin_L40" Content="实验1" HorizontalAlignment="Center" VerticalAlignment="Center" Style="{StaticResource IoSmallCheckBoxStyle}" IsEnabled="True" IsChecked="{Binding Path=IsintCheck,Mode=TwoWay}"/>
+            <CheckBox Grid.Row="1" Grid.Column="3" x:Name="MCB_Origin_L4" Content="实验2" HorizontalAlignment="Center" VerticalAlignment="Center" Style="{StaticResource IoSmallCheckBoxStyle}" IsEnabled="True" IsChecked="{Binding Path=IsintCheck,Mode=TwoWay}"/>
+            <CheckBox Grid.Row="2" Grid.Column="3" x:Name="MCB_Origin_L41" Content="实验3" HorizontalAlignment="Center" VerticalAlignment="Center" Style="{StaticResource IoSmallCheckBoxStyle}" IsEnabled="True" IsChecked="{Binding Path=IsintCheck,Mode=TwoWay}"/>
+
+            
+            <CheckBox x:Name="cb_Basic" Content="绑定更新变量" Grid.Column="1" HorizontalAlignment="Left" Margin="5" Grid.Row="2" IsChecked="{Binding Path=i_Check ,Mode=TwoWay}" VerticalAlignment="Center"/>
+            <CheckBox Name="rbt_Input_X100" Content="推荐绑bool值" Grid.Row="2" Grid.Column="0" Style="{StaticResource IoCheckBoxStyle}" IsEnabled="False" IsChecked="{Binding Path=IsCheck,Mode=TwoWay}" FontSize="5" FontFamily="MS Gothic"/>
+
+
+        </Grid>
+    </Grid>
+</Window>

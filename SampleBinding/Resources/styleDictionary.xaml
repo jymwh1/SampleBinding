@@ -1,0 +1,83 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:Microsoft_Windows_Themes="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Luna"
+                    xmlns:local="clr-namespace:SampleBinding">
+    
+    <Style x:Key="IoSmallCheckBoxStyle" TargetType="{x:Type CheckBox}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="CheckBox">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <Image Source="Gray Light.png" x:Name="CheckBoxImage" Margin="0,0,0,0">
+                        </Image>
+                        <TextBlock  x:Name="CheckBoxContent" Grid.Column="1"  FontSize="9"  VerticalAlignment="Center" Text="{TemplateBinding Content}">
+                        </TextBlock>
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="CheckBox.IsChecked" Value="true">
+                            <Setter TargetName="CheckBoxImage" Property="Source"  Value="Green light.png" />
+                        </Trigger>
+                        <Trigger Property="CheckBox.IsChecked" Value="false">
+                            <Setter TargetName="CheckBoxImage" Property="Source"  Value="Gray Light.png" />
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="IoCheckBoxStyle" TargetType="{x:Type CheckBox}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="CheckBox">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="25" />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <Image Source="Gray Light.png" x:Name="CheckBoxImage" Margin="0,0,5,0">
+                        </Image>
+                        <TextBlock  x:Name="CheckBoxContent" Grid.Column="1"  FontSize="15"  VerticalAlignment="Center" Text="{TemplateBinding Content}">
+                        </TextBlock>
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="CheckBox.IsChecked" Value="true">
+                            <Setter TargetName="CheckBoxImage" Property="Source"  Value="Green light.png" />
+                        </Trigger>
+                        <Trigger Property="CheckBox.IsChecked" Value="false">
+                            <Setter TargetName="CheckBoxImage" Property="Source"  Value="Gray Light.png" />
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+
+    <Style x:Key="ButtonTempalted" TargetType="{x:Type Button}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border Name="Border" BorderThickness="2" CornerRadius="3" BorderBrush="AliceBlue" Background="Aqua" TextBlock.Foreground="Black">
+                        <ContentPresenter Margin="{TemplateBinding Padding}" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                        </ContentPresenter>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True" >
+                            <Setter TargetName="Border"   Property="Background" Value="Orange"></Setter>
+                        </Trigger>
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="Border"   Property="Background" Value="White"></Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+
+</ResourceDictionary>
