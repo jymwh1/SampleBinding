@@ -72,6 +72,7 @@ namespace SampleBinding
             Register_L4.aci.IsintCheck = 0;
 
             Register_X100.IsCheck.IsCheck= false;
+            Console.WriteLine("LOOK Git");
         }
     }
 }
