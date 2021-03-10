@@ -1,0 +1,50 @@
+F:\work\C#常用功能汇总\WPF相关\各种控件绑定举例\SampleBinding\SampleBinding\bin\Debug\SampleBinding.exe.config
+F:\work\C#常用功能汇总\WPF相关\各种控件绑定举例\SampleBinding\SampleBinding\bin\Debug\SampleBinding.exe
+F:\work\C#常用功能汇总\WPF相关\各种控件绑定举例\SampleBinding\SampleBinding\bin\Debug\SampleBinding.pdb
+F:\work\C#常用功能汇总\WPF相关\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\SampleBinding.csprojResolveAssemblyReference.cache
+F:\work\C#常用功能汇总\WPF相关\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\MainWindow.g.cs
+F:\work\C#常用功能汇总\WPF相关\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\App.g.cs
+F:\work\C#常用功能汇总\WPF相关\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\SampleBinding_MarkupCompile.cache
+F:\work\C#常用功能汇总\WPF相关\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\SampleBinding_MarkupCompile.lref
+F:\work\C#常用功能汇总\WPF相关\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\MainWindow.baml
+F:\work\C#常用功能汇总\WPF相关\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\SampleBinding.g.resources
+F:\work\C#常用功能汇总\WPF相关\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\SampleBinding.Properties.Resources.resources
+F:\work\C#常用功能汇总\WPF相关\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\SampleBinding.csproj.GenerateResource.Cache
+F:\work\C#常用功能汇总\WPF相关\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\SampleBinding.exe
+F:\work\C#常用功能汇总\WPF相关\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\SampleBinding.pdb
+F:\work\C#常用功能汇总\WPF相关\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\Resources\styleDictionary.baml
+F:\work\C#常用功能汇总\WPF相关\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\App.baml
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding\SampleBinding\bin\Debug\SampleBinding.exe.config
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\SampleBinding.exe
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\SampleBinding.pdb
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding\SampleBinding\bin\Debug\SampleBinding.exe
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding\SampleBinding\bin\Debug\SampleBinding.pdb
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\SampleBinding.csprojAssemblyReference.cache
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\MainWindow.g.cs
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\App.g.cs
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\SampleBinding_MarkupCompile.cache
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\SampleBinding_MarkupCompile.lref
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\App.baml
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\MainWindow.baml
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\Resources\styleDictionary.baml
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\SampleBinding.g.resources
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\SampleBinding.Properties.Resources.resources
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\SampleBinding.csproj.GenerateResource.cache
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding\SampleBinding\obj\Debug\SampleBinding.csproj.CoreCompileInputs.cache
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding - 副本\SampleBinding\bin\Debug\SampleBinding.exe.config
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding - 副本\SampleBinding\bin\Debug\SampleBinding.exe
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding - 副本\SampleBinding\bin\Debug\SampleBinding.pdb
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding - 副本\SampleBinding\obj\Debug\SampleBinding.csprojAssemblyReference.cache
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding - 副本\SampleBinding\obj\Debug\MainWindow.g.cs
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding - 副本\SampleBinding\obj\Debug\App.g.cs
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding - 副本\SampleBinding\obj\Debug\SampleBinding_MarkupCompile.cache
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding - 副本\SampleBinding\obj\Debug\SampleBinding_MarkupCompile.lref
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding - 副本\SampleBinding\obj\Debug\App.baml
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding - 副本\SampleBinding\obj\Debug\MainWindow.baml
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding - 副本\SampleBinding\obj\Debug\Resources\styleDictionary.baml
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding - 副本\SampleBinding\obj\Debug\SampleBinding.g.resources
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding - 副本\SampleBinding\obj\Debug\SampleBinding.Properties.Resources.resources
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding - 副本\SampleBinding\obj\Debug\SampleBinding.csproj.GenerateResource.cache
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding - 副本\SampleBinding\obj\Debug\SampleBinding.csproj.CoreCompileInputs.cache
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding - 副本\SampleBinding\obj\Debug\SampleBinding.exe
+F:\mywork\分类汇总\各种控件绑定举例\SampleBinding - 副本\SampleBinding\obj\Debug\SampleBinding.pdb
